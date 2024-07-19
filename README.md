@@ -273,9 +273,6 @@ For detailed installation instructions and usage guidelines, refer to the indivi
 
 Contributions are welcome! Please follow the standard Git workflow: fork the repository, make your changes, and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
